@@ -45,3 +45,8 @@ Thumbs.db
 
 ### Gradle ###
 .gradle/
+
+### Environment files ###
+.env
+.env.local
+
